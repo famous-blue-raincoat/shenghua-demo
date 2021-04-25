@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="社区" />
+
+    <item
+        android:id="@+id/navigation_plus"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title=" " />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="商城" />
+
+    <item
+        android:id="@+id/navigation_my"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="我的" />
+
+</menu>
